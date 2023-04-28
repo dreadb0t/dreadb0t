@@ -1,10 +1,10 @@
 ![logo](https://github.com/dreadb0t/dreadb0t/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shuayib Bin Jalal</h1>
-<h3 align="center">A passionate cyber security specialist</h3>
+<h3 align="center">A fervid cyber security specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreadb0t&label=Profile%20views&color=0e75b6&style=flat" alt="dreadb0t" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **about digital forensics and pentesting**
 
 - 📫 How to reach me **shuayib10@gmail.com**
 

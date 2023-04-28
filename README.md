@@ -1,3 +1,4 @@
+![logo](https://github.com/dreadb0t/dreadb0t/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shuayib Bin Jalal</h1>
 <h3 align="center">A passionate cyber security specialist</h3>
 

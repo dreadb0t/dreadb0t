@@ -1,6 +1,6 @@
 ![logo](https://github.com/dreadb0t/dreadb0t/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(3).png)
 <h1 align="center">Hi 👋, I'm Shuayib Bin Jalal</h1>
-<h3 align="center">A fervid cyber security specialist</h3>
+<h3 align="center">A cyber security enthusiast</h3>
 <img align ="right" alt="coding" width="400" src="https://github.com/dreadb0t/dreadb0t/blob/main/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreadb0t&label=Profile%20views&color=0e75b6&style=flat" alt="dreadb0t" /> </p>
 
